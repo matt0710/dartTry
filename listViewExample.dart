@@ -54,9 +54,9 @@ class MyListView extends StatelessWidget {
       new Winery(2, "Cantina3", "Via Bisceglie 113", "Andria", "76123", ""),
       new Winery(3, "Cantina4", "Via Gorizia 114", "Andria", "76123", ""),
       new Winery(4, "Cantina5", "Via Verdi 115", "Andria", "76123", ""),
-      new Winery(4, "Cantina6", "Via Margherita 116", "Andria", "76123", ""),
-      new Winery(4, "Cantina7", "Corso Cavour 117", "Andria", "76123", ""),
-      new Winery(4, "Cantina8", "Viale Istria 118", "Andria", "76123", ""),
+      new Winery(5, "Cantina6", "Via Margherita 116", "Andria", "76123", ""),
+      new Winery(6, "Cantina7", "Corso Cavour 117", "Andria", "76123", ""),
+      new Winery(7, "Cantina8", "Viale Istria 118", "Andria", "76123", ""),
     ];
 
     return ListView.builder(
